@@ -1,1 +1,1 @@
-this is my simple python project and on way starting to learn github in a serious manner.
+This is my simple python project which genrates random passwords based on your choice of number of symbol, letters and numbers entered. Everytime when it runs it generates password not only by taking new set of symbols, letters and numbers but also it changes the their position in password which ensures the creation of a strong password everytime you need one.
